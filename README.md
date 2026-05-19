@@ -1,6 +1,6 @@
 # Márcio Paulo
 
-Desenvolvedor e consultor especializado em automações com IA, sistemas SaaS multi-tenant e integrações no-code/low-code.
+Engineer and consultant specializing in AI automation systems an SaaS platforms.
 
 ---
 
@@ -21,6 +21,6 @@ Desenvolvedor e consultor especializado em automações com IA, sistemas SaaS mu
 
 - **Frontend:** Next.js · TypeScript · Tailwind CSS
 - **Backend:** Supabase · PostgreSQL · RLS
-- **Automações:** n8n · Claude AI · Evolution API (WhatsApp)
+- **Automações:** n8n · Claude AI · META API (WhatsApp)
 - **Deploy:** Vercel · Hostinger VPS
 - **Ferramentas:** VS Code · Claude Code · GitHub · Obsidian
