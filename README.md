@@ -7,7 +7,7 @@ Engineer and consultant specializing in AI automation systems an SaaS platforms.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcio-paulovox&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=marcio-paulovox&theme=github-dark&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
